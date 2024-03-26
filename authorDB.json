@@ -1,0 +1,59 @@
+[
+    {
+        "authorID": "1",
+        "authorName": "John Doe",
+        "authorBooks": [
+            {
+                "bookID": "1",
+                "bookTitle": "Book 1"
+            },
+            {
+                "bookID": "2",
+                "bookTitle": "Book 2"
+            }
+            
+        ]
+    },
+    {
+        "authorID": "2",
+        "authorName": "Jane Doe",
+        "authorBooks": [
+            {
+                "bookID": "3",
+                "bookTitle": "Book 3"
+            },
+            {
+                "bookID": "4",
+                "bookTitle": "Book 4"
+            }
+        ]
+    },
+    {
+        "authorID": "3",
+        "authorName": "John Smith",
+        "authorBooks": [
+            {
+                "bookID": "5",
+                "bookTitle": "Book 5"
+            },
+            {
+                "bookID": "6",
+                "bookTitle": "Book 6"
+            }
+        ]
+    },
+    {
+        "authorID": "4",
+        "authorName": "Jane Smith",
+        "authorBooks": [
+            {
+                "bookID": "7",
+                "bookTitle": "Book 7"
+            },
+            {
+                "bookID": "8",
+                "bookTitle": "Book 8"
+            }
+        ]
+    }
+]
